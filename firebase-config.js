@@ -1,11 +1,10 @@
-// Paste your Firebase web app config here (Firebase console, Project settings, Your apps, Web app).
-// It is safe to publish: this is NOT your YouTube key. Leave as null to run without login.
-window.FIREBASE_CONFIG = null;
-/* Example:
+// Firebase web app config for Songify.
+// These values are safe to publish. They are not secret (they are not your YouTube key).
 window.FIREBASE_CONFIG = {
-  apiKey: "...",
-  authDomain: "your-project.firebaseapp.com",
-  projectId: "your-project",
-  appId: "..."
+  apiKey: "AIzaSyADmGV-Up7soZ6alPvYFJ3S-EHtcx9WtTQ",
+  authDomain: "songify-34253.firebaseapp.com",
+  projectId: "songify-34253",
+  storageBucket: "songify-34253.firebasestorage.app",
+  messagingSenderId: "959209931003",
+  appId: "1:959209931003:web:dfd7d76aa01abc5165305e"
 };
-*/

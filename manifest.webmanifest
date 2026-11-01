@@ -1,0 +1,6 @@
+{ "name": "Songify", "short_name": "Songify", "description": "Tamil songs, endless.", "start_url": "/", "display": "standalone", "background_color": "#ebe8dd", "theme_color": "#ebe8dd",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ] }
